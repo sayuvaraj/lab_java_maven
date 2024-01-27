@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab_group_id.lab_java_artifact.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 s - in lab_group_id.lab_java_artifact.AppTest
